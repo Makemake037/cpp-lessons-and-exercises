@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Custom ignores for my C++ setup
+.vs/
+.vscode/
+output/
